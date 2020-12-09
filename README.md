@@ -1,2 +1,2 @@
 # GA
-Coursework from GA Data Science 
+Coursework from General Assembly Data Science course
